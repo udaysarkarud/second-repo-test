@@ -1,0 +1,25 @@
+.blog{
+    background-color: navajowhite;
+    border: 5px solid salmon;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 30px;
+}
+.blog h3{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 2em;
+}
+.blog p{
+    color: rgb(71, 46, 139);
+}
+span{
+    color: olivedrab;
+}
+small{
+    display:block;
+}
+h4{
+    display: inline;
+}
